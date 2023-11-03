@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 // Configurar el número de puerto para el servidor
-const PORT = 3000
+const PORT = 8080
 
 // Importar el módulo fs para leer archivos
 const fs = require("fs");
